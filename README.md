@@ -1,1 +1,0 @@
-# E-commerce-reviews---Sentiment-analysis-and-Naive-Bayes
