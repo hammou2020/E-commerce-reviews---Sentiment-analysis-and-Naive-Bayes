@@ -1,23 +1,18 @@
 ==============================================================================
-Sentiment Analysis on the reviews of customers' e-commerce purchase experience 
-and Naive Bayes Classification to predict whether customers will recommend 
-their purchase based on their sentiment category
+Sentiment Analysis and Naive Bayes Classification on e-commerce reviews
 ==============================================================================
 
 =========================================
 Background 
 =========================================
-One of the challenges that businesses face is how to gain a better understanding of the voice of the customer. This issue can be addressed by extracting additional information from customer reviews, using sentiment analysis. Customer feedback provides a useful platform to discover a huge range of customer-initiated reactions to the product(s) that they have purchased. Text analytics provide businesses a more holistic picture of customers’ satisfaction or dissatisfaction. It is insufficient to rely on customers’ ratings alone to find out their experiences. This is because reviews can provide important feedback to businesses, that would not be captured using a Likert scale. For instance, a five-star review can contain important requests for improved delivery time or customer support. Uncovering deeper insights about customers’ reviews enable businesses to respond to reviews more strategically and effectively and consider modifying their current systems and approaches so that they can better serve their customers.
+One of the challenges that businesses face is how to gain a better understanding of the voice of the customer. This issue can be addressed by extracting additional information from customer reviews, using sentiment analysis. Customer feedback provides a useful platform to discover a huge range of customer-initiated reactions to the product(s) that they have purchased. Text analytics provide businesses a more holistic picture of customers’ satisfaction or dissatisfaction. It is insufficient to rely on customers’ ratings alone to find out their experiences. This is because reviews can provide important feedback to businesses, that would not be captured using a Likert scale. For instance, a five-star review can contain important requests for improved delivery time or customer support. Uncovering deeper insights about customers’ reviews enable businesses to respond to reviews more strategically and effectively and consider modifying their current systems and approaches so that they can better serve their customers. Improving customers' satisfaction results in higher retention of customers. 
 
 =========================================
 Associated tasks
 =========================================
 
-- Regression: 
-Predicting of bike rental demand for registered users vis a vis casual users based on the environmental factors 
-	In particular, decision tree regression is used because it captures the non linearity of the dataset and is more robust to outliers.
+- Sentiment Analysis on the reviews of customers' e-commerce purchase experience and Naive Bayes Classification to predict whether customers will recommend their purchase based on their sentiment category
    
-
 =========================================
 Files
 =========================================
@@ -27,7 +22,7 @@ Files
     Dataset obtained from Kaggle (https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews/home) 
 
 =========================================
-Dataset characteristics
+Raw Dataset characteristics
 =========================================	
 
 	- Clothing ID: Specific product being reviewed
